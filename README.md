@@ -65,7 +65,7 @@ Dynamic and responsive blog platform supporting category filtering, CRUD feature
     <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/tayyabbasharat](https://www.linkedin.com/in/tayyab-basharat-8a896a273/">
+  <a href="https://www.linkedin.com/in/tayyab-basharat-8a896a273/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
